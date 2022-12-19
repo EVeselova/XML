@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+        <id>123</id>
+        <title>What_where_when</title>
+        <precondition>do_it</precondition>
+        <environment>windows_10</environment>
+        <severity>trivial</severity>
+        <priority>low</priority>
+        <attach>video</attach>
+</bug_report>
