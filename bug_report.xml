@@ -6,5 +6,7 @@
         <environment>windows_10</environment>
         <severity>trivial</severity>
         <priority>low</priority>
+        <expected_result>all_correct</expected_result>
+        <actual_result>:all_incorrect</actual_result>
         <attach>video</attach>
 </bug_report>
